@@ -32,6 +32,15 @@ Minimize the number of records
 Optimize extracts to speed up future queries by materializing calculations, removing
 columns and the use of accelerated views
 
+
+## For More Details
+https://github.com/Sou-786/Ineuron-internship/blob/main/CLV_HLD%20.docx.pdf
+
+## Architecture
+https://github.com/Sou-786/Ineuron-internship/blob/main/Tableau_Architecture.docx
+
+## Wire Frame
+https://github.com/Sou-786/Ineuron-internship/blob/main/wireframe%20documentation.pdf
   
 ## Authors
 
