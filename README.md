@@ -13,6 +13,8 @@ acquire and retain customers.
  
   
 ## Demo
+## Tableau Public
+https://public.tableau.com/app/profile/soumit.kar/viz/CustomerValueAnalysisinAutoInsurance/BUSINESS
 
 <img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/i6Kcp0puzJTZJQ27xg/giphy.gif?cid=790b76114c99ba6579308731fa22d6b804b6b22837055d17&rid=giphy.gif&ct=g">
 
